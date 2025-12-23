@@ -1,0 +1,19 @@
+Diabetes mellitus is a chronic metabolic disorder characterized by persistently elevated blood glucose levels due to defects in insulin secretion, insulin action, or both. Long-term hyperglycemia is associated with damage to various organs, particularly the eyes, kidneys, nerves, heart, and blood vessels.
+
+There are two major types of diabetes mellitus. Type 1 diabetes results from autoimmune destruction of pancreatic beta cells, leading to absolute insulin deficiency. Type 2 diabetes is characterized by insulin resistance combined with relative insulin deficiency and is more common than Type 1 diabetes.
+
+Common symptoms of diabetes include polyuria, polydipsia, polyphagia, fatigue, unexplained weight loss, blurred vision, and slow wound healing. Type 2 diabetes may be asymptomatic in its early stages and is often detected through routine screening.
+
+Diagnosis of diabetes is based on laboratory criteria such as fasting plasma glucose of 126 mg/dL or higher, HbA1c of 6.5 percent or higher, or a random plasma glucose of 200 mg/dL or higher in the presence of classic symptoms.
+
+Chronic complications of diabetes are divided into microvascular and macrovascular complications. Microvascular complications include diabetic retinopathy, diabetic nephropathy, and diabetic neuropathy. Macrovascular complications include coronary artery disease, cerebrovascular disease, and peripheral arterial disease.
+
+Management of diabetes focuses on achieving glycemic control, preventing complications, and improving quality of life. Lifestyle modification is the cornerstone of management and includes dietary changes, regular physical activity, weight management, and smoking cessation.
+
+Pharmacologic treatment for Type 2 diabetes often begins with metformin unless contraindicated. Other glucose-lowering agents may include sulfonylureas, DPP-4 inhibitors, GLP-1 receptor agonists, SGLT2 inhibitors, and insulin therapy when needed.
+
+Insulin therapy is required for all patients with Type 1 diabetes and may be necessary for patients with Type 2 diabetes if adequate glycemic control is not achieved with oral or non-insulin injectable agents.
+
+Regular monitoring of blood glucose levels and periodic assessment of HbA1c are essential components of diabetes management. Patients should also be routinely screened for complications such as eye disease, kidney disease, and cardiovascular risk factors.
+
+Education and self-management support are critical aspects of diabetes care. Patients should be educated about medication adherence, recognition of hypoglycemia, sick-day management, and the importance of routine follow-up with healthcare providers.

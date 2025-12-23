@@ -1,0 +1,19 @@
+Hypertension is a chronic medical condition defined by persistently elevated arterial blood pressure. It is a major risk factor for cardiovascular disease, stroke, chronic kidney disease, and premature mortality.
+
+Blood pressure is classified based on systolic and diastolic values. Normal blood pressure is defined as systolic less than 120 mmHg and diastolic less than 80 mmHg. Stage 1 hypertension is defined as systolic blood pressure between 130–139 mmHg or diastolic blood pressure between 80–89 mmHg. Stage 2 hypertension is defined as systolic blood pressure of 140 mmHg or higher or diastolic blood pressure of 90 mmHg or higher.
+
+Primary (essential) hypertension accounts for the majority of cases and has no identifiable secondary cause. Secondary hypertension may result from renal disease, endocrine disorders, medications, or other underlying conditions.
+
+Initial evaluation of hypertension includes confirmation of elevated blood pressure readings, assessment of cardiovascular risk factors, and evaluation for target organ damage such as left ventricular hypertrophy, chronic kidney disease, or retinopathy.
+
+Lifestyle modification is recommended for all patients with hypertension. Key lifestyle interventions include dietary sodium reduction, adoption of a heart-healthy diet such as the DASH diet, regular physical activity, weight loss in overweight individuals, moderation of alcohol intake, and smoking cessation.
+
+Pharmacologic treatment is recommended for patients with persistent hypertension despite lifestyle modification or those with high cardiovascular risk. First-line antihypertensive drug classes include thiazide diuretics, angiotensin-converting enzyme inhibitors (ACE inhibitors), angiotensin receptor blockers (ARBs), and calcium channel blockers.
+
+Choice of initial therapy may depend on patient-specific factors such as age, comorbid conditions, and drug tolerability. Combination therapy may be required to achieve target blood pressure goals in some patients.
+
+ACE inhibitors and ARBs should not be used together due to an increased risk of adverse effects. Certain antihypertensive medications may be contraindicated in pregnancy or advanced kidney disease.
+
+Regular follow-up is required to monitor blood pressure control, medication adherence, and adverse effects. Treatment goals typically aim for a blood pressure below 130/80 mmHg in most patients, depending on individual risk profiles.
+
+Effective management of hypertension significantly reduces the risk of cardiovascular events, stroke, and renal disease progression.
